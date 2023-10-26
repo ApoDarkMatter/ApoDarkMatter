@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Epicode**
 
-- 🌱 I’m currently learning **React** **Node.js** **Expressjs** **Redux - Redux Toolkit** **Tailwind**
+- 🌱 I’m currently learning **React** - **Node.js - Expressjs - Redux - Redux Toolkit - Tailwind**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
