@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apodarkmatter&label=Profile%20views&color=0e75b6&style=flat" alt="apodarkmatter" /> </p>
 
-- 🔭 I’m currently studying **NextJS**
+- 🔭 I’m currently studying **NextJS** - **Tailwind**
 
 - 🌱 I’m using **React** - **Node.js - Expressjs - Redux - Redux Toolkit**
 
