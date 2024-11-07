@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **React Native**
 
-- 🌱 I’m using **React** - **Node.js - Expressjs - Redux - Redux Toolkit**
+- 🌱 I’m using **React** - **React Native** - **Redux - Redux Toolkit - Redux Saga - Zustand**
 
 - 👨‍💻 My Website [https://apolloniandrea.com](https://apolloniandrea.com)
 
