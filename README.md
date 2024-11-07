@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apodarkmatter&label=Profile%20views&color=0e75b6&style=flat" alt="apodarkmatter" /> </p>
 
-- 🔭 I’m currently studying **React Native**
-
 - 🌱 I’m using **React** - **React Native** - **Redux - Redux Toolkit - Redux Saga - Zustand**
 
 - 👨‍💻 My Website [https://apolloniandrea.com](https://apolloniandrea.com)
